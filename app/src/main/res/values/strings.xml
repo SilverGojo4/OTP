@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">OTP</string>
+    <string name="send_otp">Send OTP</string>
+    <string name="type_your_number">Type your number</string>
+    <string name="_886">+886</string>
+    <string name="login_with_nmobile_number">Login with \nMobile number</string>
+    <string name="_0">0</string>
+    <string name="verify">Verify</string>
+    <string name="resend_otp">Resend OTP</string>
+    <string name="sign_out">Sign out</string>
+</resources>
